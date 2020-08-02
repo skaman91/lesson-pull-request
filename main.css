@@ -17,3 +17,13 @@
     background-color: darkseagreen;
     text-align: center;
 }
+
+.footer {
+    padding: 100px;
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+    font-family: sans-serif;
+    background-color: rgb(122, 121, 121);
+    text-align: center;
+}
